@@ -1,0 +1,62 @@
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Bright Stitch</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_customer_description">No customer added yet</string>
+    <string name="edit_customer_title">Edit Customer</string>
+    <string name="name">Name</string>
+    <string name="customer_detail_title">Customer Details</string>
+    <string name="search">Search customers</string>
+    <string name="customer_entry_title">Add Customer</string>
+    <string name="customer_name_req">Name *</string>
+    <string name="customer_phone">Phone Number</string>
+    <string name="price">Price</string>
+    <string name="no">No</string>
+    <string name="phone">Phone Number</string>
+    <string name="quantity_in_stock">Quantity\nIn Stock</string>
+    <string name="deposit">Deposit</string>
+    <string name="balance">Balance</string>
+    <string name="address">Address</string>
+    <string name="shoulder">Shoulder</string>
+    <string name="bust">Bust</string>
+    <string name="underBust">Under Bust</string>
+    <string name="roundUnderBust">Round Under Bust</string>
+    <string name="armhole">Armhole</string>
+    <string name="halfLength">Half Length</string>
+    <string name="sleeveLength">Sleeve Length</string>
+    <string name="roundSleeve">Round Sleeve</string>
+    <string name="hip">Hip</string>
+    <string name="hipLine">Hip Line</string>
+    <string name="kneeLength">Knee Length</string>
+    <string name="neckDepth">Neck Depth</string>
+    <string name="neckWidth">Neck Width</string>
+    <string name="nippleToNipple">Nipple To Nipple</string>
+    <string name="shoulderToNipple">Shoulder To Nipple</string>
+    <string name="slimWaist">Slim Waist</string>
+    <string name="topLength">Top Length</string>
+    <string name="skirtLength">Skirt Length</string>
+    <string name="trouserLength">Trouser Length</string>
+    <string name="shortLength">Short Length</string>
+    <string name="longLength">Long Length</string>
+    <string name="flap">Flap</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="yes">Yes</string>
+</resources>
